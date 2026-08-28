@@ -1,0 +1,6 @@
+{
+  "name": "البعد السادس الهندسي",
+  "description": "منصة وتطبيق البعد السادس الهندسي للدروس والدورات الهندسية والتعليمية الذكية مع دعم تشغيل يوتيوب والرفع المباشر والتنزيل بدون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
